@@ -1,18 +1,24 @@
-## Getting Started
+## Atividade 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Exercício de fixação para o conteúdo apresentado no módulo de Controle de Fluxo. Treinando o uso do try-catch
 
-## Folder Structure
+Esta atividade faz parte da DIO - Trilha Java Básico
+www.dio.me
 
-The workspace contains two folders by default, where:
+O desafio proposto encontra-se no repositório do curso: 
+[Proposta da Atividade](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Estrutura de Pastas
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Este workspace contem duas pastas padrões, onde:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- `src`: a pasta que contém os sources
+- `lib`: a pasta que contém as dependências
 
-## Dependency Management
+Enquanto isso, os arquivos de saída compilados serão gerados na pasta `bin` por padrão.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+> Se você deseja personalizar a estrutura de pastas, abra `.vscode/settings.json` e atualize as configurações relacionadas lá.
+
+## Gerenciamento de Dependências
+
+A visualização `JAVA PROJECTS` permite que você gerencie suas dependências.
